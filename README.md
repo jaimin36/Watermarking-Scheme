@@ -10,4 +10,5 @@ The research papers are as follows:
 Both images are 256x256 in size and are grayscale images.
 
 The original image is: https://assets2.rockpapershotgun.com/11867d20f5731095c7fd9b3eedccfa89.jpg
+
 Image W is: https://i.stack.imgur.com/dbEjT.gif
